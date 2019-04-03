@@ -1,1 +1,1 @@
-# coins-daemon-binarys
+# coins-daemon-binaries
